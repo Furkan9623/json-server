@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "md Furkan",
+      "emai": "a@gamil.com"
+    },
+    {
+      "id": 4,
+      "name": "md Furkan",
+      "emai": "a@gamil.com"
+    },
+    {
+      "id": 2,
+      "name": "md Furkan",
+      "emai": "a@gamil.com"
+    },
+    {
+      "id": 3,
+      "name": "md Furkan",
+      "emai": "a@gamil.com"
+    }
+  ]
+}
