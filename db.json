@@ -2,23 +2,20 @@
   "user": [
     {
       "id": 1,
-      "name": "md Furkan",
-      "emai": "a@gamil.com"
-    },
-    {
-      "id": 4,
-      "name": "md Furkan",
-      "emai": "a@gamil.com"
+      "name": "Md Furkan",
+      "email": "a@gamil.com"
     },
     {
       "id": 2,
-      "name": "md Furkan",
-      "emai": "a@gamil.com"
-    },
+      "name": "Md Faizan",
+      "emai": "b@gamil.com"
+    }
+  ],
+  "Produc": [
     {
-      "id": 3,
-      "name": "md Furkan",
-      "emai": "a@gamil.com"
+      "product_name": "Puma Shoes",
+      "price": 1000,
+      "image_url": ""
     }
   ]
 }
