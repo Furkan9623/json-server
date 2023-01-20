@@ -3,12 +3,14 @@
     {
       "id": 1,
       "name": "Md Furkan",
-      "email": "a@gamil.com"
+      "email": "a@gamil.com",
+      "password":858400
     },
     {
       "id": 2,
       "name": "Md Faizan",
-      "emai": "b@gamil.com"
+      "emai": "b@gamil.com",
+      "password":123456
     }
   ],
   "Produc": [
